@@ -1,0 +1,6 @@
+<launch>
+    <include file="$(find roboteq_driver)/launch/controller_driver.launch">
+	</include>
+    <node name="run_prog" pkg="run_prog" type="controller_input" output="screen">
+    </node>
+</launch>

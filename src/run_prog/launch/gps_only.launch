@@ -1,0 +1,12 @@
+<launch>
+    <rosparam file="$(find run_prog)/config/gps_checkpoints_straight.yaml" command="load"/>
+    <include file="$(find ublox_gps)/launch/ublox_device.launch">
+	</include>
+    <node name="gps_umd" pkg="gps_common" type="utm_odometry_node2" output="screen">
+        <remap from="odom_relative_utm" to="vo"/>
+        <param name="rot_covariance" value="99999" />
+        <param name="frame_id" value="odom" />
+    </node>
+    <node name="run_prog" pkg="run_prog" type="gps_only" output="screen">
+    </node>
+</launch>

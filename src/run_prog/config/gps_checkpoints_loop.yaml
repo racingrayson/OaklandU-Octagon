@@ -1,0 +1,21 @@
+waypoints:
+  points:
+    size: 18
+    p1 : {latitude: 42.6724287, longitude: -83.2150968}
+    p2 : {latitude: 42.6726027, longitude: -83.2150968}
+    p3 : {latitude: 42.6727753, longitude: -83.2150948}
+    p4 : {latitude: 42.6729631, longitude: -83.2150915}
+    p5 : {latitude: 42.6732064, longitude: -83.2150841}
+    p6 : {latitude: 42.6733479, longitude: -83.2152621}
+    p7 : {latitude: 42.6736161, longitude: -83.2152463}
+    p8 : {latitude: 42.6738320, longitude: -83.2155867}
+    p9 : {latitude: 42.6739303, longitude: -83.2158651}
+    p10 : {latitude: 42.6737793, longitude: -83.2157550}
+    p11 : {latitude: 42.6736287, longitude: -83.2156426}
+    p12 : {latitude: 42.6734445, longitude: -83.2154023}
+    p13 : {latitude: 42.6733479, longitude: -83.2152621}
+    p14 : {latitude: 42.6732064, longitude: -83.2150841}
+    p15 : {latitude: 42.6729631, longitude: -83.2150915}
+    p16 : {latitude: 42.6727753, longitude: -83.2150948}    
+    p17 : {latitude: 42.6726027, longitude: -83.2150968}
+    p18 : {latitude: 42.6724287, longitude: -83.2150968}

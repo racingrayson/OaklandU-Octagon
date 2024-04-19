@@ -1,0 +1,2 @@
+gps_umd/gps_common:gps_umd/gps_umd:roboteq_driver:roboteq_msgs:rtcm_msgs:run_prog:ublox/ublox:ublox/ublox_gps:ublox/ublox_msgs:ublox/ublox_serialization
+-DCATKIN_DEVEL_PREFIX=/home/joe/octagon/devel -DCMAKE_INSTALL_PREFIX=/home/joe/octagon/install -G Unix Makefiles

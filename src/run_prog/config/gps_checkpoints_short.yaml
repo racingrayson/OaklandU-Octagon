@@ -1,0 +1,5 @@
+waypoints:
+  points:
+    size: 2
+    p1 : {latitude: 42.6726027, longitude: -83.2151100}
+    p2 : {latitude: 42.6724287, longitude: -83.2150968}

@@ -1,0 +1,11 @@
+<launch>
+  <arg name="port" default="/dev/ttyUSB0" />
+  <node pkg="roboteq_driver" type="driver_node" name="roboteq_driver" output="screen">
+    <param name="port" value="$(arg port)" />
+    <param name="baud" value="115200" />
+    <param name="wheel_radius" value="0.129361" />
+    <param name="wheel_base" value="0.4953" />
+    <param name="gear_reduction" value="53.5" />
+    <rosparam command="load" file="$(find roboteq_driver)/config/channels.yaml" />
+  </node>
+</launch>

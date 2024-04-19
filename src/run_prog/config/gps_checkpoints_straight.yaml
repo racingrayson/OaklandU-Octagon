@@ -1,0 +1,11 @@
+waypoints:
+  points:
+    size: 8
+    p1 : {latitude: 42.6726027, longitude: -83.2151100}
+    p2 : {latitude: 42.6727753, longitude: -83.2150948}
+    p3 : {latitude: 42.6729631, longitude: -83.2150915}
+    p4 : {latitude: 42.6732064, longitude: -83.2150841}
+    p5 : {latitude: 42.6729631, longitude: -83.2150915}
+    p6 : {latitude: 42.6727753, longitude: -83.2150948}    
+    p7 : {latitude: 42.6726027, longitude: -83.2150968}
+    p8 : {latitude: 42.6724287, longitude: -83.2150968}

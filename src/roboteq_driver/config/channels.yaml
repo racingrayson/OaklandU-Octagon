@@ -1,0 +1,2 @@
+#set left wheel to channel 1 and set right wheel to channel 2
+channels: ['channel1', 'channel2']

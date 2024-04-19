@@ -1,0 +1,8 @@
+prefix=/home/joe/octagon/install
+
+Name: run_prog
+Description: Description of run_prog
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
