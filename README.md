@@ -23,9 +23,14 @@ From the workspace directory you can run the GPS path-following progam by enteri
 
 ```roslaunch run_prog main.launch```
 
+This runs a launch file the collects and launches all of the necessary ROS nodes.
 
 ### yaml coords
-### launch file
+The path is determined by a list of GPS coordinates which are definied in the .YAML files in `~/octagon/src/run_prog/config`
+
+An example file is shown below.
+<img src="https://github.com/racingrayson/OaklandU-Octagon/raw/main/docs/pictures/waypoints.png" alt="waypoints" width="300"/>
+
 ### documents
 ### ros packages
 ### cloning the repo
