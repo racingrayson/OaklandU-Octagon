@@ -29,7 +29,8 @@ This runs a launch file the collects and launches all of the necessary ROS nodes
 The path is determined by a list of GPS coordinates which are definied in the .YAML files in `~/octagon/src/run_prog/config`
 
 An example file is shown below.
-<img src="https://github.com/racingrayson/OaklandU-Octagon/raw/main/docs/pictures/waypoints.png" alt="waypoints" width="300"/>
+
+<img src="https://github.com/racingrayson/OaklandU-Octagon/raw/main/docs/pictures/waypoints.png" alt="waypoints" width="600"/>
 
 ### documents
 ### ros packages
