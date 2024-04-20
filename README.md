@@ -4,12 +4,12 @@
 
 ## running the robot manually
 RC Controller:
-![alt text][logo]
+![alt text](https://github.com/racingrayson/OaklandU-Octagon/raw/main/docs/pictures/IMG_2296.jpeg "RC Remote")
 
-[logo]: https://github.com/racingrayson/OaklandU-Octagon/raw/main/docs/pictures/IMG_2296.jpeg "RC Remote"
+<img src="https://github.com/racingrayson/OaklandU-Octagon/raw/main/docs/pictures/IMG_2296.jpeg" alt="IMG_2296" width="200"/>
 
-RC Reciever:
-![alt text](https://github.com/racingrayson/OaklandU-Octagon/tree/main/docs/pictures/IMG_2297.jpeg?raw=true "RC Reciever")
+RC Controller:
+![alt text](https://github.com/racingrayson/OaklandU-Octagon/raw/main/docs/pictures/IMG_2297.jpeg "RC Reciever")
 
 
 ## cd workspace
