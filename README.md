@@ -17,10 +17,11 @@ The password used to sign in to the laptop and install new packages is: voldemor
 
 To get to the program workspace open the terminal and enter the following.
 
-`cd ~/octagon`
+```cd ~/octagon```
 
 From the workspace directory you can run the GPS path-following progam by entering:
-`roslaunch run_prog main.launch`
+
+```roslaunch run_prog main.launch```
 
 
 ### yaml coords
