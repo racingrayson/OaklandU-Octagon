@@ -13,7 +13,7 @@ At that point the motor controller will take RC inputs and you can maneuver the 
 
 ### Using the OU Laptop
 
-The password used to sign in to the laptop and install new packages is: voldemort1
+The password used to sign in to the laptop and install new packages is: **voldemort1**
 
 To get to the program workspace open the terminal and enter the following.
 
@@ -31,7 +31,3 @@ The path is determined by a list of GPS coordinates which are definied in the .Y
 An example file is shown below.
 
 <img src="https://github.com/racingrayson/OaklandU-Octagon/raw/main/docs/pictures/waypoints.png" alt="waypoints" width="600"/>
-
-### documents
-### ros packages
-### cloning the repo
