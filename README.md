@@ -1,5 +1,11 @@
 # OaklandU-Octagon
 
+### Summary
+The Octagon Robot at Oakland University is a collaborative effort with the end goal of giving autonomous tours around campus.
+As it stands it is capable of following a GPS path and will include computer vision capabilities in future iterations.
+This repository serves as a place to maintain and source the code to run the robot. Documentation on individual components is held in 
+the `docs` folder while the ROS code and packages reside in the `src` folder.
+
 ### Running the Robot Manually
 
 When the robot is powered on, you will see on orange light blinking quickly on the RC receiver. 
@@ -25,7 +31,7 @@ From the workspace directory you can run the GPS path-following progam by enteri
 
 This runs a launch file the collects and launches all of the necessary ROS nodes.
 
-### yaml coords
+### Defining a GPS Path
 The path is determined by a list of GPS coordinates which are definied in the .YAML files in `~/octagon/src/run_prog/config`
 
 An example file is shown below.
