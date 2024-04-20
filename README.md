@@ -4,7 +4,7 @@
 
 ## running the robot manually
 RC Controller:
-![plot](https://github.com/racingrayson/OaklandU-Octagon/tree/main/docs/pictures/IMG_2296.jpeg?raw=true "RC Remote")
+![alt text][(https://github.com/racingrayson/OaklandU-Octagon/tree/main/docs/pictures/IMG_2296.jpeg?raw=true "RC Remote")]
 
 RC Reciever:
 ![alt text](https://github.com/racingrayson/OaklandU-Octagon/tree/main/docs/pictures/IMG_2297.jpeg?raw=true "RC Reciever")
