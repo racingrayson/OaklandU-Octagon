@@ -1,8 +1,8 @@
 # OaklandU-Octagon
 
 ### Summary
-The Octagon Robot at Oakland University is a collaborative effort with the end goal of giving autonomous tours around campus.
-As it stands it is capable of following a GPS path and will include computer vision capabilities in future iterations.
+The Octagon Robot at Oakland University is a collaborative effort with the end goal of conducting autonomous tours around campus.
+As it stands, it is capable of following a GPS path and will include computer vision capabilities in future iterations.
 This repository serves as a place to maintain and source the code to run the robot. Documentation on individual components is held in 
 the `docs` folder while the ROS code and packages reside in the `src` folder.
 
